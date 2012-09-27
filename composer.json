@@ -1,5 +1,8 @@
 {
 	"name": "rbschange/framework",
 	"description": "RBS Change CMS Framework",
-	"type": "rbschange-core"
+	"type": "rbschange-core",
+    "require": {
+        "composer/installers": "*"
+    }
 }
